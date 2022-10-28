@@ -1,4 +1,4 @@
-# testDBConnection((C#.NET 4.5.2))
+# testDBConnection(C#.NET 4.5.2)
 MS SQL 資料庫連線測試
 
 輸入連線字串，成功就跳出success，失敗則fail
